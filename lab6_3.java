@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab8_3 {
+public class lab6_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
